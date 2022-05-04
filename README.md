@@ -1,24 +1,9 @@
-# README
+# WIP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Gems
 
-Things you may want to cover:
+- devise
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+- install redis sudo apt install redis-server
 
 * ...
